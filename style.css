@@ -67,7 +67,7 @@ body {
     width: 70%;
     height: auto;
 }
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -79,4 +79,11 @@ ul {
     padding-left: 10px;
     margin-bottom: 4px;
     text-align: center;
+}
+
+footer p{
+    padding: 10px;
+    width: 30%;
+    float: right;
+    border: solid 1px #000
 }
